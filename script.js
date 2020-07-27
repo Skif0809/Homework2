@@ -67,7 +67,6 @@ for (let i = 0; i < 2; i++) {
 // }
 // while(i < 2);
 
-
 appData.moneyPerDay = appData.budget / 30;
 
 alert("Ежедневный бюджет: " + appData.moneyPerDay);
