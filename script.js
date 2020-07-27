@@ -5,7 +5,7 @@ let money = +prompt("Ваш бюджет на месяц?", ""),
 
 let appData = {
     budget: money,
-	timeData: time,        
+	timeData: time,
 	expenses: {},
 	optionalExpenses: {},
 	income: [],
